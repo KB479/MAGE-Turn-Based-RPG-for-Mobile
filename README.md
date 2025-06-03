@@ -1,2 +1,2 @@
 # MAGE
-Ongoing Turn-Based RPG Project
+Ongoing Turn-Based RPG Project, using Unity.
